@@ -30,3 +30,7 @@
 3. Visualize Travel Data
 
 Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences. 
+
+## Background
+
+Add the amount of rainfall or snowfall within the last three hours so that customers can filter the DataFrame based on the temperature range and whether or not it is raining or snowing. Create a directions layer Google map that shows the directions between multiple cities for travel.
