@@ -25,25 +25,10 @@ The main purpose of this challenge is to collect, analyze and visualize weather 
 
 1. Collect the Data
 
-- Use the *NumPy module* to generate more than 1,500 random latitudes and longitudes.
-
-- Use the *citipy module* to list the nearest city to the latitudes and longitudes.
-
-- Use the *OpenWeatherMap API* to request the current weather data from each unique city.
-
-- Parse the *JSON* data from the API request.
-
-
 2. Exploratory Analysis with Visualization
-
-- Create scatter plots and linear regression of the weather data and determine the correlations.
-
-- Create a series of heatmaps using the Google Maps and Places API.
-
 
 3. Visualize Travel Data
 
-Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences. 
 
 ## Vacation Search
 Based on traveler’s weather preferences.
