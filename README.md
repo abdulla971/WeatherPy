@@ -45,6 +45,14 @@ The main purpose of this challenge is to collect, analyze and visualize weather 
 
 Create a heatmap with pop-up markers that can display information on specific cities based on a customer’s travel preferences. 
 
-## Background
+## Vacation Search
+Based on traveler’s weather preferences.
 
-Add the amount of rainfall or snowfall within the last three hours so that customers can filter the DataFrame based on the temperature range and whether or not it is raining or snowing. Create a directions layer Google map that shows the directions between multiple cities for travel.
+### Sample Travel Destinations
+
+![WeatherPy_vacation_map](Vacation_Search/WeatherPy_vacation_map.png)
+
+## Vacation Itinerary 
+Via Google Directions API:
+
+![WeatherPy_travel_map](Vacation_Itinerary/WeatherPy_travel_map.png)
