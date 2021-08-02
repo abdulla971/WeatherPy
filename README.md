@@ -1,7 +1,7 @@
 # WeatherPy
 
 
-## Basic Project Plan
+## Project Plan
 
 1. Task: Collect and analyze weather data across cities worldwide.
 2. Purpose: Use the data to recommend ideal hotels based on clients’ weather preferences.
