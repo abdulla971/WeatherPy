@@ -6,7 +6,7 @@ The main purpose of this challenge is to collect, analyze and visualize weather 
 
 ### Resources Utilized to Complete Analysis
 * **CSV Files:** 
-![Weather_Database.csv](Weather_Database/WeatherPy_Database.csv), 
+[Weather_Database.csv](Weather_Database/WeatherPy_Database.csv), 
 ![WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv)
 * **Jupyter Notebook Files:**:
 ![Weather_Database.ipynb](Weather_Database/Weather_Database.ipynb), 
